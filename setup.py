@@ -51,8 +51,8 @@ else:
     extension_func = cpp_extension.CppExtension
 
 setuptools.setup(
-    name="torchsde_dev",
-    version="0.1.3",
+    name="torchsde",
+    version="0.1.4",
     author="Sayantan Das",
     author_email="sayantandas30011998@gmail.com",
     description="SDE solvers and stochastic adjoint sensitivity analysis in PyTorch.",
