@@ -52,7 +52,7 @@ else:
 
 setuptools.setup(
     name="torchsde",
-    version="0.1.4",
+    version="0.1.5",
     author="Sayantan Das",
     author_email="sayantandas30011998@gmail.com",
     description="SDE solvers and stochastic adjoint sensitivity analysis in PyTorch.",
